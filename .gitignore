@@ -1,0 +1,11 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+new_admin2_keypair.json
+new_admin_keypair.json
+path_to_keypair.json
+config.rs
